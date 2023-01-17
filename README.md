@@ -9,7 +9,7 @@ A JavaScript application that generates random passwords based on information ga
 This picture shows the application in action with a 13-character randomly password generated and printed on the screen.
 
 ![Random password Generator pic](./assets/RPG%20charcter%20set%20example%20lowercase.png)
-This is a picture with a prompt appearing on the top of the screen to let ask the user whether they would like a lowercase letter in their randomly generated password
+This is a picture with a prompt appearing on the top of the screen to var ask the user whether they would like a lowercase letter in their randomly generated password
 
 ![Random password Generator pic](./assets/RPG%20length%20under%2010.png)
 This is an example of the prompt that would appear if the user was to enter a number that was outside the passwrod length that would be accaptable

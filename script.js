@@ -55,6 +55,8 @@ function generatePassword() {
 
 
 
+// Prevent the screen from refreshing when whe button is clicked
+event.preventDefault();
 
 // Clear previous password from screen
 password.value === "";
